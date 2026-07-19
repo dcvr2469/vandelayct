@@ -136,9 +136,9 @@ p { margin: 0 0 1em; }
   display: flex;
   align-items: center;
   justify-content: space-between;
-  height: 92px;
+  height: 116px;
 }
-.brand-mark { height: 60px; width: auto; }
+.brand-mark { height: 84px; width: auto; }
 
 .site-nav {
   display: flex;
@@ -469,7 +469,7 @@ p { margin: 0 0 1em; }
   flex-wrap: wrap;
   gap: 16px;
 }
-.footer-mark { height: 36px; filter: brightness(0) invert(1); opacity: 0.85; }
+.footer-mark { height: 44px; filter: brightness(0) invert(1); opacity: 0.85; }
 .site-footer p { margin: 0; font-size: 0.85rem; }
 
 /* ==========================================================================
@@ -486,7 +486,7 @@ p { margin: 0 0 1em; }
   .nav-toggle { display: flex; }
   .site-nav {
     position: absolute;
-    top: 92px;
+    top: 116px;
     left: 0;
     right: 0;
     background: var(--white);
