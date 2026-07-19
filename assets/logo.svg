@@ -1,4 +1,4 @@
-<svg viewBox="0 0 1120 240" xmlns="http://www.w3.org/2000/svg">
+<svg width="1220" height="240" viewBox="0 0 1220 240" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="markGrad" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#1B2A41"/>
@@ -30,6 +30,6 @@
   <g transform="translate(260,0)">
     <text x="0" y="105" font-family="Arial, Helvetica, sans-serif" font-size="102" font-weight="700" letter-spacing="3.5" fill="#1B2A41">VANDELAY</text>
     <text x="0" y="175" font-family="Arial, Helvetica, sans-serif" font-size="46" font-weight="500" letter-spacing="7" fill="#4A5D6B">CONSTRUCTION TECHNOLOGIES</text>
-    <rect x="0" y="201" width="840" height="7" fill="#F2A93B"/>
+    <rect x="0" y="201" width="920" height="7" fill="#F2A93B"/>
   </g>
 </svg>
